@@ -16,7 +16,7 @@ class GFG {
         {
             int c = (int)b[j]-48;
             a[c] = a[c]+1;
-            System.out.println(a[c]+" "+c);
+            //System.out.println(a[c]+" "+c);
         }
         int m = 0;
         int in = 0;
